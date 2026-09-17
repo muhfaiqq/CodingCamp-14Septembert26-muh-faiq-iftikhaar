@@ -1,0 +1,98 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Set up project structure and static HTML shell": [
+      {
+        "executionId": "fc87b2b7-c2dd-40fb-8c94-d0f8daf1a623",
+        "chatSessionId": "sess_5af02f46-4043-4ba7-9a06-d71f31b65208",
+        "timestamp": 1789664411166
+      },
+      {
+        "executionId": "fc87b2b7-c2dd-40fb-8c94-d0f8daf1a623",
+        "chatSessionId": "sess_5af02f46-4043-4ba7-9a06-d71f31b65208",
+        "timestamp": 1789664823208
+      }
+    ],
+    "2. Implement core styles": [
+      {
+        "executionId": "12eafb32-493e-41b6-82f7-91cc45959f5b",
+        "chatSessionId": "sess_476d8ad8-4af8-4ff9-8975-9d58c8132e0a",
+        "timestamp": 1789664877847
+      },
+      {
+        "executionId": "12eafb32-493e-41b6-82f7-91cc45959f5b",
+        "chatSessionId": "sess_476d8ad8-4af8-4ff9-8975-9d58c8132e0a",
+        "timestamp": 1789665333801
+      }
+    ],
+    "3.1 Write the `validate(formData)` function in `js/app.js`": [
+      {
+        "executionId": "4381b97a-50f8-45ab-8e88-3bed9d0940c8",
+        "chatSessionId": "sess_992b7338-0bd8-4d1a-abbc-73a3128b02bb",
+        "timestamp": 1789665349697
+      },
+      {
+        "executionId": "4381b97a-50f8-45ab-8e88-3bed9d0940c8",
+        "chatSessionId": "sess_992b7338-0bd8-4d1a-abbc-73a3128b02bb",
+        "timestamp": 1789665405157
+      }
+    ],
+    "3. Implement the Validator module": [
+      {
+        "executionId": "4381b97a-50f8-45ab-8e88-3bed9d0940c8",
+        "chatSessionId": "sess_992b7338-0bd8-4d1a-abbc-73a3128b02bb",
+        "timestamp": 1789665405302
+      }
+    ],
+    "4.1 Write `StorageManager` object in `js/app.js`": [
+      {
+        "executionId": "6f5138de-feba-43ab-ad4e-ead8d1b473a2",
+        "chatSessionId": "sess_2fdfbc13-e81f-4bec-ab84-fc3fafe7ba01",
+        "timestamp": 1789665418943
+      },
+      {
+        "executionId": "6f5138de-feba-43ab-ad4e-ead8d1b473a2",
+        "chatSessionId": "sess_2fdfbc13-e81f-4bec-ab84-fc3fafe7ba01",
+        "timestamp": 1789665477736
+      }
+    ],
+    "4. Implement the StorageManager module": [
+      {
+        "executionId": "6f5138de-feba-43ab-ad4e-ead8d1b473a2",
+        "chatSessionId": "sess_2fdfbc13-e81f-4bec-ab84-fc3fafe7ba01",
+        "timestamp": 1789665477896
+      }
+    ],
+    "5.1 Write `computeBalance(transactions)` in `js/app.js`": [
+      {
+        "executionId": "100c7919-3e92-4d2d-ba5c-ae2f4b2b9bc9",
+        "chatSessionId": "sess_d679909a-7248-4ef6-88f5-effb3b3c2651",
+        "timestamp": 1789665524549
+      },
+      {
+        "executionId": "100c7919-3e92-4d2d-ba5c-ae2f4b2b9bc9",
+        "chatSessionId": "sess_d679909a-7248-4ef6-88f5-effb3b3c2651",
+        "timestamp": 1789665564123
+      }
+    ],
+    "5.2 Write `computeCategoryTotals(transactions)` in `js/app.js`": [
+      {
+        "executionId": "ff60450f-5490-4977-97d9-8cd109c517a2",
+        "chatSessionId": "sess_83cbd4f1-2394-4fed-b50a-03891a715a90",
+        "timestamp": 1789665576020
+      },
+      {
+        "executionId": "ff60450f-5490-4977-97d9-8cd109c517a2",
+        "chatSessionId": "sess_83cbd4f1-2394-4fed-b50a-03891a715a90",
+        "timestamp": 1789665627861
+      }
+    ],
+    "5. Implement pure helper functions for balance and category totals": [
+      {
+        "executionId": "ff60450f-5490-4977-97d9-8cd109c517a2",
+        "chatSessionId": "sess_83cbd4f1-2394-4fed-b50a-03891a715a90",
+        "timestamp": 1789665627962
+      }
+    ]
+  }
+}
